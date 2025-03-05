@@ -1,0 +1,1 @@
+console.log("Hey there, Im writing a lot of javascript today!");
